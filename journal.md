@@ -21,3 +21,6 @@ for todays exercise i created a couple of files and then found them using find c
 
 Day 6
 pipes, forwarding, sorting. > >> head cut awk wc sort uniq grep. For the exercise I forwarded my aux output to a file and then sorted the output with informations that I needed from that file.
+
+Day 7
+More grep, sort, sed. For the exercise I echoed fruit names each from new line into a file. Then replaced apples with red apples using sed.
