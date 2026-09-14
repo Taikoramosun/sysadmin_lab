@@ -24,3 +24,6 @@ pipes, forwarding, sorting. > >> head cut awk wc sort uniq grep. For the exercis
 
 Day 7
 More grep, sort, sed. For the exercise I echoed fruit names each from new line into a file. Then replaced apples with red apples using sed.
+
+Day 8
+SUID, SGID, sticky bit. Hard links, symbolic links, inode
